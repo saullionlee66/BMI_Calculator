@@ -1,3 +1,12 @@
+# Introduction
+
+This project is a practice of React frameworks, especially for Form hanlding.
+
+# Techonologies
+
+1. React
+2. React-bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
