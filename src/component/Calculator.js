@@ -40,7 +40,7 @@ function Calculator() {
         <div>
             <Card>
                 <Card.Body>
-                    <h2 className="text-center mb-4">BMI Calculoar</h2>
+                    <h2 className="text-center mb-4">BMI Calculator</h2>
                     {info && <Alert variant="info">Your BMI is:{result} {info}</Alert>}
                     <Form ref={formRef} onSubmit={handleSubmit}>
                         <Form.Group id="height" >
