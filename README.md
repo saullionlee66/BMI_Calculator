@@ -9,7 +9,9 @@ This project is a practice of React framework, especially for Form hanlding.
 
 # Features
 
-User can input their height(in cm) and weight(in kg) to calculate the BMI, and receive the BMI range. 
+1. User can input their height(in cm) and weight(in kg) to calculate the BMI, and receive the BMI range.
+2. Reset button will clean the form.
+3. Alert message will only appear when there is BMI result.
 
 # Getting Started with Create React App
 
