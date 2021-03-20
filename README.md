@@ -1,11 +1,15 @@
 # Introduction
 
-This project is a practice of React frameworks, especially for Form hanlding.
+This project is a practice of React framework, especially for Form hanlding.
 
 # Techonologies
 
 1. React
 2. React-bootstrap
+
+# Features
+
+User can input their height(in cm) and weight(in kg) to calculate the BMI, and receive the BMI range. 
 
 # Getting Started with Create React App
 
