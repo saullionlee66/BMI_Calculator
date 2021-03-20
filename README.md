@@ -4,7 +4,7 @@ This project is a practice of React framework, especially for Form hanlding.
 
 # Techonologies
 
-1. React
+1. React, Hooks
 2. React-bootstrap
 
 # Features
